@@ -31,7 +31,7 @@ if ((m<0.8 and m>0.5)or(m>-0.8 and m<-0.5)):
 
 ![alt text][image1]
 
-Here's a [Solid White Right Line Video][video1] and [Solid Yellow Left Line Video] [video2]
+Here's a [Solid White Right Line Video][video1] and [Solid Yellow Left Line Video][video2]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
